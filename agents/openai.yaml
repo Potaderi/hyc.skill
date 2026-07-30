@@ -1,0 +1,4 @@
+interface:
+  display_name: "HYC WeChat Auto Reply"
+  short_description: "Reply instantly to incoming desktop WeChat messages"
+  default_prompt: "Use $hyc to start WeChat and immediately reply to every incoming message."
